@@ -20,4 +20,4 @@ Exercícios feitos durante o Curso: Profissão Cientista de Dados na EBAC.
   
 </details>
 
-![EBACLogo]("C:/Users/Monique Anselmet/Pictures/curso cientista de dados/EBAC_Profissao_Cientista_de_Dados-main/ebac_logo.png")
+![ebac_logo](https://user-images.githubusercontent.com/92448630/204101449-017e2da0-cbd4-4c30-8e04-90af0c4812cf.png)
